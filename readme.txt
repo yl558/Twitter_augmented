@@ -1,3 +1,7 @@
+Label:
+0: True news
+1: Fake news
+
 Feature index:
 0: user name length
 1: screen name length
